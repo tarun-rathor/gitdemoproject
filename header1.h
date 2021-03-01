@@ -1,5 +1,5 @@
 #define myheader
 void fun()
 {
-var a = 10;
+var a = 100;
 }
